@@ -1,0 +1,3 @@
+- a very simple and basic C++ Implementation of Doubly Linked List after taking the "structure of data" class
+- my first attempt of committing codes on GitHub
+- if have time I'll upgrade this
